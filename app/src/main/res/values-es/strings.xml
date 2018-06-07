@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ficha</string>
+    <string name ="sinaisVitais">Signos vitales: </string>
+    <string name="textView2">Presión sanguinea:</string>
+    <string name="textView3">Bautizo cardiaco:</string>
+    <string name="textView4">Temperatura Cº:</string>
+    <string name="textView5">Nombre del paciente:</string>
+    <string name="textView6">Número de la cama del paciente:</string>
+    <string name="button">Enviar</string>
+
+    Signos vitales
+    Presión sanguinea
+    Bautizo cardiaco
+    Temperatura Cº
+    Nombre del paciente
+    Número de la cama del paciente
+
+    enviar
+</resources>

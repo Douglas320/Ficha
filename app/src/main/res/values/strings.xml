@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ficha</string>
+    <string name ="sinaisVitais">Sinais Vitais: </string>
+    <string name="textView2">Pressão Arterial:</string>
+    <string name="textView3">Batimento Cardiacos:</string>
+    <string name="textView4">Temperatura Cº:</string>
+    <string name="textView5">Nome do Paciente:</string>
+    <string name="textView6">Numero do Leito do Paciente:</string>
+
+    <string name="button">Enviar</string>
+
+</resources>
